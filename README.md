@@ -13,3 +13,21 @@ for x in range (1,6):
  
  ![screenshot 34](https://user-images.githubusercontent.com/46917932/52928254-64faf480-3371-11e9-9418-4a6e50755242.png)
  
+ ```python
+ max=0
+ 
+while True:
+
+    a=int(input("masukan bilangan:"))
+    
+    if a ==0:
+    
+        break
+        
+    if a>max:
+    
+        max=a
+        
+print("bilangan terbesar:",max)
+```
+
