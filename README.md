@@ -31,3 +31,5 @@ while True:
 print("bilangan terbesar:",max)
 ```
 
+Melakukan perulangan dengan while, kemudian menambah satu variabel hitung setiap kali mengulang. lalu menanyakan kepada pengguna, apakah mau berhenti mengulang atau tidak?
+
