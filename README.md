@@ -1,5 +1,5 @@
 labpy03
-
+praktikum1.py
 ``` python
 import random
 
