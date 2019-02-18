@@ -1,5 +1,5 @@
 labpy03
-(praktikum1)
+(latihan 1)
 ``` python
 import random
 
@@ -13,7 +13,7 @@ for x in range (1,6):
  
  ![screenshot 34](https://user-images.githubusercontent.com/46917932/52928254-64faf480-3371-11e9-9418-4a6e50755242.png)
  
-(praktikum2)
+(latihan 2)
 ```python
  max=0
  
@@ -34,9 +34,10 @@ print("bilangan terbesar:",max)
 
 Melakukan perulangan dengan while, kemudian menambah satu variabel hitung setiap kali mengulang. lalu menanyakan kepada pengguna, apakah mau berhenti mengulang atau tidak?
 
-![screenshot 35](https://user-images.githubusercontent.com/46917932/52928566-00409980-3373-11e9-87f2-eedefec892ab.png)
+![screenshot 33](https://user-images.githubusercontent.com/46917932/52929024-1d766780-3375-11e9-8f08-aa9459ff4af3.png)
 
-(praktikum3)
+
+(latihan 3)
 ```python
 
 for x in range(1,9):
@@ -69,3 +70,6 @@ total = b+b+c+c+d+d+d+e
 
 print("\ntotal : ", total)
 ```
+Fungsi range() sering digunakan sebagai counter pada perulangan for. Counter adalah sebuah variabel yang menyimpan hitungan—berapa kali mengulang—perulangan. 
+
+![screenshot 33](https://user-images.githubusercontent.com/46917932/52929024-1d766780-3375-11e9-8f08-aa9459ff4af3.png)
