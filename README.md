@@ -34,3 +34,36 @@ print("bilangan terbesar:",max)
 Melakukan perulangan dengan while, kemudian menambah satu variabel hitung setiap kali mengulang. lalu menanyakan kepada pengguna, apakah mau berhenti mengulang atau tidak?
 
 ![screenshot 35](https://user-images.githubusercontent.com/46917932/52928566-00409980-3373-11e9-87f2-eedefec892ab.png)
+
+```python
+
+for x in range(1,9):
+
+    if(x>=1 and x<=2):
+    
+        b = a*0
+        
+        print("Laba Bulan ke-",x," :",b)
+        
+    if(x>=3 and x<=4):
+    
+        b = a*1
+        
+        print("Laba Bulan ke-",x," :",c)
+        
+    if(x>=1 and x<=7):
+    
+        b = a*5
+        
+        print("Laba Bulan ke-",x," :",d)
+        
+    if(x==8):
+    
+        e=a*0.2
+        
+        print("Laba Bulan ke-",x," :",e)
+        
+total = b+b+c+c+d+d+d+e
+
+print("\ntotal : ", total)
+```
